@@ -1,5 +1,3 @@
-# extract_data_api
-
 # Instalações da aplicação:
 pip install Django
 pip install djangorestframework
